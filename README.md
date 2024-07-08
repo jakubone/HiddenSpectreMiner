@@ -30,6 +30,9 @@ Make sure you have Python installed. This project is being developed on Python 3
 ## Required packages
 ``requests`` ``psutil`` ``nuitka``
 
+## Issues 
+If you encounter any issues, please let me know on the "Issues" tab or if you want a faster reply contact me on discord: ``przywlaszczenie``
+
 ## Stars
 If you consider my project useful, please leave me a star ⭐
 

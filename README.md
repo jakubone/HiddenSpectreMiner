@@ -2,6 +2,7 @@
 # Hidden Spectre Miner
 
 An simple hidden Spectre coin miner written in Python with TNN miner.
+This only works for Windows now, I'm working on other OS support.
 
 ## Features
 

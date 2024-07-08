@@ -3,7 +3,6 @@
 
 An simple hidden Spectre coin miner written in Python with TNN miner.
 
-
 ## Features
 
 - Custom deployment path
@@ -12,6 +11,17 @@ An simple hidden Spectre coin miner written in Python with TNN miner.
 - No large libaries required
 - Small executable size
 - Can run on own node or a pool
+
+## Usage
+Usage is pretty straightforward, first install requirements:
+```
+pip install -r requirements.txt
+```
+then run the ``main.py``
+```
+python main.py
+```
+fill out the required fields and you are done!
 
 ## Requirements
 
